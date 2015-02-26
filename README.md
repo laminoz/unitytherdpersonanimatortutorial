@@ -1,0 +1,2 @@
+# unitytherdpersonanimatortutorial
+mecanim animator
